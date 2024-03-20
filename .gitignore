@@ -1,0 +1,7 @@
+venv/
+images/**
+**/**.png
+**/**.jpg
+__pycache__/
+cascades/**
+trained_data/**
